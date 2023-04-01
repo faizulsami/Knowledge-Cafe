@@ -31,8 +31,10 @@ const QandA = () => {
 <div className='p-3'>
 {/* 3rd ans */}
 <h3>3.In react.js, useEffect What kinds of things do without data loading?</h3>
-
+<p>The useEffect hook in ReactJS is used to perform additional actions in functional components, like updating the document title, setting up event listeners, triggering animations, scheduling tasks, updating global state, sending analytics, or saving state to local storage. It's a powerful tool that helps you organize your code and separate concerns. useEffect provides a clean and concise way to perform these actions
+    in a declarative manner.</p>
 </div>
+
     </div> 
     </div>
     </div>
