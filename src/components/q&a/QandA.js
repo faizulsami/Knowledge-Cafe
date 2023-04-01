@@ -39,7 +39,14 @@ const QandA = () => {
 <h3>
 4.How does ReactJS work ?
 </h3>
-
+<p>ReactJS is a JavaScript library that allows developers to 
+    build user interfaces by composing reusable components.
+        When a user interacts with a ReactJS application, React 
+        updates the UI by rendering the components that have changed.
+        React uses a virtual DOM to efficiently update the UI by comparing 
+        the current state of the virtual DOM with the previous state, and only 
+        applying the necessary changes to the actual DOM.
+        This process is known as reconciliation.</p>
 </div>
     </div> 
     </div>
