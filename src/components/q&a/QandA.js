@@ -34,7 +34,13 @@ const QandA = () => {
 <p>The useEffect hook in ReactJS is used to perform additional actions in functional components, like updating the document title, setting up event listeners, triggering animations, scheduling tasks, updating global state, sending analytics, or saving state to local storage. It's a powerful tool that helps you organize your code and separate concerns. useEffect provides a clean and concise way to perform these actions
     in a declarative manner.</p>
 </div>
+<div className='p-3'>
+    {/* 4th ans */}
+<h3>
+4.How does ReactJS work ?
+</h3>
 
+</div>
     </div> 
     </div>
     </div>
