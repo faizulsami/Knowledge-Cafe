@@ -1,0 +1,83 @@
+    [
+        {
+        "id": 0,
+        "author_name": "Alex",
+        "blog_title": "Mastering Python: From Beginner to Advanced",
+        "blog_cover_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010127.jpg?w=1380&t=st=1680199091~exp=1680199691~hmac=886970cec6a2c1e19f9e2d7189044ef75382abdfc96822732bf931b30edc33cc",
+        "author_image": "https://img.freepik.com/free-photo/portrait-handsome-smiling-model-sexy-stylish-man-dressed-shirt-trousers-fashion-hipster-male-posing-near-blue-wall-studio-isolated_158538-26681.jpg?w=1380&t=st=1680197972~exp=1680198572~hmac=93bbc3f990fb75fa0eb44a42610d9c40e2c39a651e04bb82c5a66848f82a41cf",
+        "read_time": 15,
+        "Publish_Date": "Mar 14 (4 Days ago)",
+        "book_mark": 1
+
+        },
+        {
+        "id": 1,
+        "author_name": "Benjamin",
+        "blog_title": "Building Web Applications with Node.js and React",
+        "blog_cover_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=1380&t=st=1680199044~exp=1680199644~hmac=37b98f3464a31aee9b40a4b59902a54907359298fac8976b5958c8932f9d81fd",
+        "author_image": "https://img.freepik.com/free-photo/senior-man-wearing-white-shirt-pink-bowtie_273609-21423.jpg?w=1380&t=st=1680198022~exp=1680198622~hmac=916ef4a05ef8c3eef9e49643da982f185c6a7736e04a95b7f1e8db812eda25b4",
+        "read_time": 20,
+        "Publish_Date": "Mar 10 (8 Days ago)",
+        "book_mark": 1
+        },
+        {
+        "id": 2,
+        "author_name": "Joan",
+        "blog_title": "Data Structures and Algorithms in Java",
+        "blog_cover_image": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?w=996&t=st=1680199176~exp=1680199776~hmac=2c0917d39fd74e182349a5fee409b1b15bdf11873c60b870a181af94da70d481",
+        "author_image": "https://img.freepik.com/free-photo/photo-attractive-bearded-young-man-with-cherful-expression-makes-okay-gesture-with-both-hands-likes-something-dressed-red-casual-t-shirt-poses-against-white-wall-gestures-indoor_273609-16239.jpg?w=996&t=st=1680198047~exp=1680198647~hmac=7090f59fc58c6dc534a490d2373fa9f4280530784fb59ed7fc3dc521241b73ad",
+        "read_time": 12,
+        "Publish_Date": "Mar 16 (2 Days ago)",
+        "book_mark": 1
+        },
+        {
+        "id": 3,
+        "author_name": "Mark",
+        "blog_title": "Introduction to Machine Learning with Python",
+        "blog_cover_image": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901778.jpg?w=996&t=st=1680199320~exp=1680199920~hmac=bf788687ea131b56153d5c342a497edc8ce84f3f2cc4c55db8ea748bb41676cf",
+        "author_image": "https://img.freepik.com/free-photo/attractive-mixed-race-male-with-positive-smile-shows-white-teeth-keeps-hands-stomach-being-high-spirit-wears-white-shirt-rejoices-positive-moments-life-people-emotions-concept_273609-15527.jpg?w=996&t=st=1680198144~exp=1680198744~hmac=82929b45ae86c8361ad8641fce95b45a401d9e965dfb7766fa90c9554203d653",
+        "read_time": 16,
+        "Publish_Date": "Mar 17 (1 Days ago)",
+        "book_mark": 1
+        },
+        {
+        "id": 4,
+        "author_name": "Travis Scott",
+        "blog_title": "Game Development with Unity and C#",
+        "blog_cover_image": "https://img.freepik.com/free-vector/desktop-smartphone-app-development_23-2148683810.jpg?w=826&t=st=1680199412~exp=1680200012~hmac=424420d867f89660d1ba0411fbdda4fe88772ccb395c947976b956b442763bc0",
+        "author_image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=996&t=st=1680198172~exp=1680198772~hmac=5964ae2c2c10db7fa5ef9a69b63ef40343c66eac42a498768f318ee3ddf0098b",
+        "read_time": 10,
+        "Publish_Date": "Mar 15 (3 Days ago)",
+        "book_mark": 1
+        },
+        {
+        "id": 5,
+        "author_name": "Daniyen Rock",
+        "blog_title": "Mobile App Development with Swift for iOS",
+        "blog_cover_image": "https://img.freepik.com/free-vector/web-design-concept_23-2147841209.jpg?w=826&t=st=1680199464~exp=1680200064~hmac=952cc0839069bffbb06163d04b984c2559a0ed1bc92cf3f99e358ec4007115c8",
+        "author_image": "https://img.freepik.com/free-photo/close-up-happy-redhead-man-face-smiling-with-white-teeth-camera-wearing-glasses-better-sig_1258-77602.jpg?w=996&t=st=1680198233~exp=1680198833~hmac=e1dbc95cad3172b9f77bfdfd10aff2b56506a023b402b8ca0da72fc985e7d6e0",
+        "read_time": 4,
+        "Publish_Date": "Mar 11 (7 Days ago)",
+        "book_mark": 1
+        },
+        {
+        "id": 6,
+        "author_name": "Hamza",
+        "blog_title": "Creating Dynamic Websites with PHP and MySQL",
+        "blog_cover_image": "https://img.freepik.com/free-photo/programmer-scanning-screen-his-smartwatch-with-smartphone-camera_1098-18710.jpg?w=996&t=st=1680199529~exp=1680200129~hmac=6820759af0354562e6cb5b1b1504d625ee50fca4dd549ea475f8ed6d066a57a4",
+        "author_image": "https://img.freepik.com/free-photo/young-prosperous-businessman-with-curly-hair-bright-smile-glad-achieve-success-life-dressed-white-t-shirt-enjoys-day-off-home-with-family_273609-16680.jpg?w=996&t=st=1680198271~exp=1680198871~hmac=a4113a2d791004eb88fca4f8b73ccc17bac6e7c07cd937eab77a999556f5129e",
+        "read_time": 8,
+        "Publish_Date": "Mar 16 (2 Days ago)",
+        "book_mark": 1
+        },
+        {
+        "id": 7,
+        "author_name": "Richy",
+        "blog_title": "Building Decentralized Applications with Solidity and Ethereum",
+        "blog_cover_image": "https://img.freepik.com/free-vector/programmers-concept-with-flat-design_23-2147838764.jpg?w=826&t=st=1680199608~exp=1680200208~hmac=12d76ac0d1b8d18c23a32ffed4010ee080d2c9926986adcbe27e42411fd856df",
+        "author_image": "https://img.freepik.com/free-photo/profile-shot-brutal-man-with-thick-foxy-beard-wears-round-glasses-looks-thoughtfully-aside_273609-17433.jpg?w=996&t=st=1680198302~exp=1680198902~hmac=f11606764179f95f784ac91a162cf2b1fd9787d9807edfa59a7ca06d5b1e3a12",
+        "read_time": 9,
+        "Publish_Date": "Mar 15 (3 Days ago)",
+        "book_mark": 1
+        }
+    ]

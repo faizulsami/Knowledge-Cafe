@@ -1,0 +1,34 @@
+
+.bookmarked{
+    background-color: #fff;
+    margin: 20px;
+    padding: 20px;
+    height: 98px;
+    border-radius: 5px;
+}
+.bookmarked-item{
+    background-color: rgba(17, 17, 17, 0.05);
+    border-radius: 8px;
+    padding-bottom: 4%;
+    height: 100%;
+    font-family: 'Exo 2', sans-serif;
+}
+.time-container{
+    background-color: rgba(96, 71, 236, 0.1);
+    color: #6047EC;
+    text-align: center;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #6047EC;
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+}
+.book-mark-main-container{
+    position: sticky;
+    top: 40px;
+}

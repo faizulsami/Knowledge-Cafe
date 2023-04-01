@@ -1,0 +1,46 @@
+.author-img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.author-name{
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 0px;
+    }
+.publish-date{
+    font-family: 'Exo 2';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: rgba(17, 17, 17, 0.6);
+}
+.tags {
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: rgba(17, 17, 17, 0.6);
+}
+.mark-as-read {
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #6047EC;
+}
+.read-time{
+    font-family: 'Exo 2';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: rgba(17, 17, 17, 0.6);
+}
+.blog-title{
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    }
