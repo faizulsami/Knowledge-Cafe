@@ -24,8 +24,11 @@ const QandA = () => {
 <h3>
 2.How to work useState ReactJS?
 </h3>
-
+<p>The <code>useState</code> hook in ReactJS allows you to add state to functional components. It takes an initial value and returns an array with the current state value and a function to update the state. You can use the state variable directly in your JSX, and React will automatically update the view when the state changes. This is a powerful tool for managing complex user interface states and making ReactJS
+        even more useful for building modern web applications.</p>
 </div>
+
+
     </div> 
     </div>
     </div>
