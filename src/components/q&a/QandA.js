@@ -19,7 +19,13 @@ const QandA = () => {
             know about, and isn't important to other components. </p>
     </div>
 
+<div className='p-3'>
+{/* 2nd  ans */}
+<h3>
+2.How to work useState ReactJS?
+</h3>
 
+</div>
     </div> 
     </div>
     </div>
