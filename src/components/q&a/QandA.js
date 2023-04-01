@@ -28,7 +28,11 @@ const QandA = () => {
         even more useful for building modern web applications.</p>
 </div>
 
+<div className='p-3'>
+{/* 3rd ans */}
+<h3>3.In react.js, useEffect What kinds of things do without data loading?</h3>
 
+</div>
     </div> 
     </div>
     </div>
